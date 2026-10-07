@@ -1,0 +1,6 @@
+{
+  "name": "Voce d'Italia - Italian Accent Voice Studio",
+  "description": "Generate expressive Italian-accented speech and native Italian audio with customizable personas, emotions, and instant playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
